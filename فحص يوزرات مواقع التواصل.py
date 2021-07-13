@@ -23,11 +23,8 @@ print( ======================================== )
 filza445=input("يوزر الوهمي-->: ")
 FLOZ20=input("الباسورد-->: ")
 print( ======================================== )
-
-
 def filza507():
  url =  https://www.instagram.com/accounts/login/ajax/ 
-
  headers = {
           accept :  */* ,
           accept-encoding :  gzip, deflate, br ,
